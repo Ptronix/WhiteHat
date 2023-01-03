@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> IT Security in Germany</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+</head>
+
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="#">IT Security in Germany</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="cybercrime.html">Cybercrime</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="data-protection.html">Data Protection</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="cyber-security.html">Cyber Security</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="digital-infrastructure.html">Digital Infrastructure</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="osint-tools.html">Open Source Intelligence</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div class="jumbotron">
+            <h1>Ptronix WhiteHat Space</h1>
+            <p>This website will provide an overview of the IT security situation in Germany.</p>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+</body>
+</html>
+
+<h2>Most Used OSINT Tools</h2>
+
+<ul>
+  <li>Maltego: Maltego is an open source intelligence (OSINT) gathering tool used to identify relationships between data points in an interactive graph format. Maltego can be used to map out relationships between people, organizations, websites, and other entities. For example, it can be used to identify connections between a company and its employees, or between a website and its associated social media accounts. </li>
+  <li>Shodan: Shodan is an internet search engine used to search for internet-connected devices. It can be used to identify vulnerable systems and services, as well as potential attack vectors. For example, it can be used to identify open ports on a system that could be exploited. </li>
+  <li>TheHarvester: TheHarvester is a tool used to collect email addresses, subdomains, and usernames from various public sources. For example, it can be used to collect email addresses from social media websites or subdomains from DNS records. </li>
+  <li>Recon-ng: Recon-ng is an open source reconnaissance framework used for gathering information about targets from public sources. It can be used to gather data such as email addresses, phone numbers, or social media profiles. For example, it can be used to identify an individual's email address or phone number from their social media profiles. </li>
+  <li>FOCA: FOCA is a tool used to identify metadata and hidden information in documents that can provide valuable intelligence. This can include information such as GPS coordinates, authors, and revision dates. For example, it can be used to identify the author of a document or the date it was last edited. </li>
+  <li>SpiderFoot: SpiderFoot is an automated OSINT gathering and correlation tool that can be used to map out an entire target environment. It can be used to identify relationships between data points such as IP addresses, domain names, and usernames. For example, it can be used to identify all the IP addresses associated with a particular domain name. </li>
+  <li>Metagoofil: Metagoofil is a tool used to identify and extract metadata from public documents. It can be used to identify authors, revision dates, and other information that can provide valuable intelligence. For example, it can be used to identify the author of a document or the date it was last edited. </li>
+  <li>Netcraft: Netcraft is a tool used to gather information about websites, such as their hosting provider, their IP address, and the technologies they are using. For example, it can be used to identify the hosting provider for a website or the technologies it is using. </li>
+  <li>Google Hacking Database (GHDB): The Google Hacking Database (GHDB) is a database of search queries that can be used to find information on websites. For example, it can be used to identify sensitive documents or vulnerable systems. </li>
+  <li>OSINT Framework: OSINT Framework is a collection of OSINT data sources and tools that can be used to gather information about targets. It can be used to identify relationships between people, organizations, websites, and other entities. For example, it can be used to identify connections between a company and its employees, or between a website and its associated social media accounts. </li>
+</ul>
